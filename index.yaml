@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  common:
+  - appVersion: v1
+    created: "2020-01-07T22:07:50.9239806+02:00"
+    description: Helm chart for Kubernetes
+    digest: abd3d1e8530648d22aed9f072b75fe7ca6e5c9eeb86acb8d900b5ff4d167a4af
+    name: common
+    urls:
+    - common-1.tgz
+    version: "1"
+generated: "2020-01-07T22:07:50.9199816+02:00"
